@@ -58,8 +58,8 @@ My focus lies in crafting maintainable, testable, and scalable systems using mod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behradkazemi&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behradkazemi&layout=compact&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=behrad-kzm&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behrad-kzm&layout=compact&theme=transparent&hide_border=true" height="165" />
 </p>
 
 ---
