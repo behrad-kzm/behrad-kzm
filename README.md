@@ -68,7 +68,7 @@ My focus lies in crafting maintainable, testable, and scalable systems using mod
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaazemi)  
 - 🌎 [Portfolio](https://www.behradkazemi.com)  
-- 📧 behrad.kzm@gmail.com  
+- 📧 devkazemi@gmail.com  
 
 ---
 
