@@ -2,7 +2,7 @@
 
 ### “Designing scalable backend systems with precision.”
 
-I’m a **Senior Backend Developer** with over 9 years of programming experience, specializing in **distributed systems**, **system design**, and **high-performance backend architecture**.
+I’m a **Senior Backend Developer** with over 10 years of programming experience, specializing in **distributed systems**, **system design**, and **high-performance backend architecture**.
 
 My focus lies in crafting maintainable, testable, and scalable systems using modern technologies of **TypeScript**, **NestJS** — with a deep understanding of cloud infrastructure and clean architecture principles.
 
