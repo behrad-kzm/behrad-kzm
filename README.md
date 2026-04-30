@@ -4,19 +4,18 @@
 
 I’m a **Senior Backend Developer** with over 9 years of programming experience, specializing in **distributed systems**, **system design**, and **high-performance backend architecture**.
 
-My focus lies in crafting maintainable, testable, and scalable systems using modern technologies like **TypeScript**, **NestJS**, **Kotlin**, and **Spring Boot** — with a deep understanding of cloud infrastructure and clean architecture principles.
+My focus lies in crafting maintainable, testable, and scalable systems using modern technologies of **TypeScript**, **NestJS** — with a deep understanding of cloud infrastructure and clean architecture principles.
 
 ---
 
 ## 🧩 About Me
 
-- 💻 Strong foundation in **backend development**, **microservices**, and **system scalability**  
-- 🧠 Experienced with **TypeScript**, **NestJS**, **Node.js**, **Kotlin**, and **Spring Boot**  
-- ☁️ Skilled in **Azure Cloud**, **Docker**, **Kubernetes**, **Redis**, **PostgreSQL**, and **MongoDB**  
-- 🧾 Advocates for **clean architecture**, **TDD**, and **maintainable codebases**  
+- 💻 Strong foundation in **microservices**, and **system scalability**  
+- 🧠 Experienced with **TypeScript**, **NestJS**, **Node.js**
+- ☁️ Skilled in **K6 Load Test**, **Kubernetes**, **Kafka**, **WebSocket**, **Redis**, **PostgreSQL**, and **MongoDB**  
+- 🧾 Advocates for **Event-Driven Design**, **TDD**, and **maintainable codebases**  
 - 🧩 Background in **iOS development** (Swift, Objective-C), giving me a solid base in **OOP** and **multithreading**  
-- ⚙️ Passionate about **system design**, **data modeling**, and **distributed architecture**  
-- 🧠 Always learning — transitioning into **Kotlin microservices** to master enterprise-level scalability  
+- ⚙️ Passionate about **system design**, **data modeling**, and **distributed architecture**   
 
 ---
 
